@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-site/static/css/main.073c9b0a.css",
+    "main.js": "/portfolio-site/static/js/main.a6610921.js",
+    "static/js/787.551d3331.chunk.js": "/portfolio-site/static/js/787.551d3331.chunk.js",
+    "static/media/palpatine.png": "/portfolio-site/static/media/palpatine.3c75efb85227030504e5.png",
+    "index.html": "/portfolio-site/index.html",
+    "main.073c9b0a.css.map": "/portfolio-site/static/css/main.073c9b0a.css.map",
+    "main.a6610921.js.map": "/portfolio-site/static/js/main.a6610921.js.map",
+    "787.551d3331.chunk.js.map": "/portfolio-site/static/js/787.551d3331.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a6610921.js"
+  ]
+}
