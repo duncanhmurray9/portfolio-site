@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './palpatine.png';
 import './App.css';
 
 function App() {
@@ -6,17 +6,16 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <br/>
+        <br/>
+        <br/>
+        <br/>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This will be a portfolio website in the future! 
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          But for now, here's Palpatine.
+        </p>
       </header>
     </div>
   );
