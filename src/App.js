@@ -1,4 +1,5 @@
 import logo from './palpatine.png';
+import footerImage from './skater.png';
 import './App.css';
 
 function App() {
@@ -17,6 +18,10 @@ function App() {
           But for now, here's Palpatine.
         </p>
       </header>
+      <footer>
+        <p>Created by Duncan using React :)</p>
+        <img src={footerImage} className="App-logo-small" alt="logo" />
+      </footer>
     </div>
   );
 }
